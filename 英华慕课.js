@@ -24,7 +24,7 @@
 // @grant  GM_addStyle
 // @require https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js
 // @require https://greasyfork.org/scripts/447800/code/ckplayer.js
-// @require https://greasyfork.org/scripts/447799/code/aoaostar-yinghua-main.js
+// @require https://git.gushao.club/https://raw.githubusercontent.com/1302557841/MoocBack/main/yinghua-main.js
 // @run-at document-idle
 // ==/UserScript==
 
